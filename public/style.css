@@ -1,0 +1,14 @@
+html {
+    color: #222;
+    font-size: 1em;
+    line-height: 1.4;
+    font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+  cursor: pointer;
+}
+
+.link {
+    cursor: pointer;
+}
